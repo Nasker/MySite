@@ -1,3 +1,15 @@
+# PyCharm
+.idea/
+
+# JavaScript/React
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+/build/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
